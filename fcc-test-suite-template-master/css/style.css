@@ -1,0 +1,19 @@
+img {
+  max-width: 600px; 
+  margin: auto; 
+  display: block;
+}
+
+#title {
+    text-align: center;
+}
+#tribute-info {
+    text-align: center;
+}
+ #img-caption {
+     text-align: center;
+ }
+
+#tribute-link {
+    text-align: center;
+} 
